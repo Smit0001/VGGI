@@ -1,5 +1,3 @@
-# WebGL
-
-Project that accompanies VGGI credit module.
-
-Visit vggi-kpi.blogspot.com for more information
+# Демонстрація першого практичного завдання
+Обʼєднане ображення фігури з різною деталізацією. Деталізацію можна визначити через інтерфейс користувача
+![alt text](https://raw.githubusercontent.com/Smit0001/VGGI/PA1/demo1.png)
