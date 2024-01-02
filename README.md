@@ -1,5 +1,1 @@
-# WebGL
-
-Project that accompanies VGGI credit module.
-
-Visit vggi-kpi.blogspot.com for more information
+# Звіт до розрахунково-графічної роботи у файлі РГР.docx
